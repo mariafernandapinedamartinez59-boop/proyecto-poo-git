@@ -1,0 +1,9 @@
+ private class ropa()
+private  string vestdio ;
+private  string pnatalon ;
+private  string chaleco;
+
+void ropa()
+vestdios=vestidos;
+pantalon=pantalon;
+chaleco= chaleco;
