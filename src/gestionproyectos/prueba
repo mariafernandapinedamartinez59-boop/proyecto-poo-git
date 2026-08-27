@@ -1,0 +1,25 @@
+   private class impresora(){
+
+    private string marca;
+    private string modelo;
+    private double  tamano;
+    private  float tinta;
+    private double  tamano;
+    private  string color; 
+    private int  no_botones;
+    private  int hojas;
+    private bool encendida; 
+// atributos 
+private impresora( int no_botones, int hojas,string color){
+   this.no_botones=no_botones;
+   this.color=color;
+   this.hojas=hojas;
+   
+   private impresora( double tamano,string marca,string modelo){
+      this.tamano=tamano
+      this.marca=marca
+      this.modelo=modelo
+
+   private impresora()
+
+   }
